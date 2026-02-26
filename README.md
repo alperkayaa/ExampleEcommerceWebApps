@@ -1,6 +1,6 @@
 🛒 Alperburada
 
-Bootstrap 5 kullanılarak geliştirilmiş basit bir e-ticaret arayüzü çalışmasıdır.
+ geliştirdiğim basit bir e-ticaret arayüzü çalışmasıdır.
 
 📄 Sayfalar
 
@@ -17,6 +17,8 @@ HTML5
 CSS3
 
 Bootstrap 5
+
+JavaScript
 
 📱 Özellikler
 
